@@ -1,2 +1,2 @@
 # bash_counter
-Counting by 2's using BASH
+# Counting by 2's using BASH
